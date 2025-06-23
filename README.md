@@ -42,8 +42,12 @@ The process flow is:
 
 ## 📁 Dataset
 
-- **Svarah**: Indian-accented English speech dataset (.wav files, diverse regional accents)
-- Also compatible with **Common Voice** and **AccentDB** datasets
+We used the **Svarah** dataset — a high-quality Indian-accented English speech dataset featuring audio clips across diverse regional accents.
+
+- 🔗 [Svarah on Hugging Face](https://huggingface.co/datasets/ai4bharat/Svarah)
+- 📄 Citation available in the section below
+- 💾 Format: `.wav` audio files
+- 🧠 Suitable for ASR, pronunciation evaluation, and accent-specific NLP
 
 ---
 
