@@ -88,16 +88,32 @@ HuBERT Accuracy:  71.43%
 
 ---
 
-## 🚧 Current Status
+## 🚧 Project Status & Vision
 
-This project represents a **base prototype** for an English Improvement Coach targeting Indian-accented tones.
+This project currently serves as a **working base prototype**. It runs locally and demonstrates the core functionality of:
 
-- It currently runs **locally** via Python scripts.
-- Core components like ASR, grammar correction, TTS, and evaluation have been integrated.
-- The **Gradio interface and real-time interaction layer are in progress**.
-- Designed as an **app-style pipeline**, intended for future deployment via Hugging Face Spaces or Streamlit.
+- Transcribing Indian-accented speech
+- Correcting grammar using an LLM
+- Converting improved sentences to speech
 
-We welcome contributions or collaborations to develop it further into a complete voice-based application.
+### 🛠️ Development Status:
+- The **voice-to-voice pipeline** works end-to-end locally.
+- Not yet packaged as a full-fledged app or web service.
+- Gradio integration is in progress for interactive demos.
+
+### 🎯 Future Vision:
+We aim to evolve this into an **accessible and user-friendly AI-powered application** that helps Indian English speakers across regions improve spoken English fluency, grammar, and pronunciation in real time — especially useful for learners, students, professionals, and second-language speakers.
+
+> This tool is designed with inclusivity and practicality in mind — bridging tech with language learning.
+
+---
+
+## 🔮 Future Work
+
+- Accent-specific fine-tuning of models (e.g., region-wise Svarah subsets)
+- Add multilingual support (e.g., Hinglish, Tamil-English)
+- Use Whisper Large + Tortoise TTS for better voice realism
+- Deploy to Hugging Face Spaces or Streamlit Cloud for public demo
 
 ---
 
@@ -118,15 +134,6 @@ This project was inspired by literature on inclusive ASR systems and the need fo
 - **Amritha K** 
 - **Reem Fariha** 
 - **Shifana Mehar** 
-
----
-
-## 🔮 Future Work
-
-- Accent-specific fine-tuning of models (e.g., region-wise Svarah subsets)
-- Add multilingual support (e.g., Hinglish, Tamil-English)
-- Use Whisper Large + Tortoise TTS for better voice realism
-- Deploy to Hugging Face Spaces or Streamlit Cloud for public demo
 
 ---
 
