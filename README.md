@@ -97,10 +97,10 @@ This project was inspired by literature on inclusive ASR systems and the need fo
 
 ## 👨‍💻 Contributors
 
-- **Roshan A Rauof** – 22BAI1014
-- **Amritha K** – 22BAI1318
-- **Reem Fariha** – 22BAI1454
-- **Shifana Mehar** – 22BAI1455
+- **Roshan A Rauof** 
+- **Amritha K** 
+- **Reem Fariha** 
+- **Shifana Mehar** 
 
 ---
 
