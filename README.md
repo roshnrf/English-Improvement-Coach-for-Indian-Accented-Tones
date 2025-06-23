@@ -88,6 +88,19 @@ HuBERT Accuracy:  71.43%
 
 ---
 
+## 🚧 Current Status
+
+This project represents a **base prototype** for an English Improvement Coach targeting Indian-accented tones.
+
+- It currently runs **locally** via Python scripts.
+- Core components like ASR, grammar correction, TTS, and evaluation have been integrated.
+- The **Gradio interface and real-time interaction layer are in progress**.
+- Designed as an **app-style pipeline**, intended for future deployment via Hugging Face Spaces or Streamlit.
+
+We welcome contributions or collaborations to develop it further into a complete voice-based application.
+
+---
+
 ## 📚 Research Inspiration
 
 This project was inspired by literature on inclusive ASR systems and the need for accent-aware AI tools. Key references include:
