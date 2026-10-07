@@ -141,7 +141,7 @@ This project was inspired by literature on inclusive ASR systems and the need fo
 
 ---
 
-## 📖 Citation
+## 📖 Citations
 
 If you use any of the tools or datasets in this project, please consider citing the following resources:
 
