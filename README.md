@@ -131,7 +131,7 @@ This project was inspired by literature on inclusive ASR systems and the need fo
 ## 👨‍💻 Contributors
 
 - **Roshan A Rauof**  
-- **Reem Fariha** 
+- **Reem Fariha <3** 
 
 ---
 
